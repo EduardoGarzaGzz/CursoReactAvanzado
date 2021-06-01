@@ -1,0 +1,26 @@
+{
+  "name": "react-avanzado-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoGarzaGzz/CursoReactAvanzado.git"
+  },
+  "author": "Eduardo Uriel Garza Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoGarzaGzz/CursoReactAvanzado/issues"
+  },
+  "homepage": "https://github.com/EduardoGarzaGzz/CursoReactAvanzado#readme",
+  "dependencies": {
+    "apollo-server": "^0.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
